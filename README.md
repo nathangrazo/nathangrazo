@@ -1,4 +1,4 @@
-<h1>🎉 <code><h1></code>Welcome to my profile!<code></h1></code></h1>
+<h1>🎉 &lt;h1&gt;Welcome to my profile!&lt;/h1&gt;</h1>
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/nathangrazo/nathangrazo/blob/0c7d501ba7195829d012761d6707ead5180c89c8/images/wallpaper.jpg" />
 &nbsp;&nbsp;&nbsp;
