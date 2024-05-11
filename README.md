@@ -36,13 +36,13 @@
 &nbsp;
 <img src="https://github.com/nathangrazo/nathangrazo/blob/0c7d501ba7195829d012761d6707ead5180c89c8/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### 📖 Studying in this moment:
+#### 📖 Studying at the moment:
 
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
-## 📱 Contacts:
+## 📱 Connect with me:
 <div> 
   <a href="https://www.instagram.com/nathangrazo" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
