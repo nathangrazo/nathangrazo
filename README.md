@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  I ❤️ to solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.
+  Overcoming hurdles, powered by tech ⚡ <br><br> Passionate about web development, I specialize in crafting seamless user interfaces that blend innovation with usability. With expertise in a variety of technologies, including HTML, CSS, JavaScript, React and beyond, I translate design concepts into captivating digital experiences. I thrive on solving complex challenges and optimizing performance to deliver exceptional results. Embracing continuous learning, I keep in touch with industry trends and best practices, ensuring that every project reflects the latest advancements in technology.
 </p>
 &nbsp;
 
