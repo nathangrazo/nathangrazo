@@ -38,10 +38,11 @@
 &nbsp;
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 <img src="https://github.com/nathangrazo/nathangrazo/blob/0c7d501ba7195829d012761d6707ead5180c89c8/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 #### 📖 Studying at the moment:
 
