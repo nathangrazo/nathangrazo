@@ -1,10 +1,12 @@
-<h1>🎉 &lt;h1&gt;Welcome to my profile!&lt;/h1&gt;</h1>
+<h1>&lt;h1&gt;Welcome to my profile!&lt;/h1&gt;</h1>
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/nathangrazo/nathangrazo/blob/0c7d501ba7195829d012761d6707ead5180c89c8/images/wallpaper.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  Overcoming hurdles, powered by tech ⚡ <br><br> Passionate about web development, I specialize in crafting seamless user interfaces that blend innovation with usability. With expertise in a variety of technologies, including HTML, CSS, JavaScript, React and beyond, I translate design concepts into captivating digital experiences. I thrive on solving complex challenges and optimizing performance to deliver exceptional results. Embracing continuous learning, I keep in touch with industry trends and best practices, ensuring that every project reflects the latest advancements in technology.
+ 🎯 Overcoming hurdles, powered by tech ⚡ <br><br> 
+  
+  Passionate about web development, I specialize in crafting seamless user interfaces that blend innovation with usability. With expertise in a variety of technologies, including HTML, CSS, JavaScript, React and beyond, I translate design concepts into captivating digital experiences. I thrive on solving complex challenges and optimizing performance to deliver exceptional results. Embracing continuous learning, I keep in touch with industry trends and best practices, ensuring that every project reflects the latest advancements in technology.
 </p>
 &nbsp;
 
