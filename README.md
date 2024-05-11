@@ -7,13 +7,11 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
- 🎯 Overcoming hurdles, powered by tech! ⚡ <br><br> 
-  
-  Passionate about web development, I specialize in crafting seamless user interfaces that blend innovation with usability. With expertise in a variety of technologies, including HTML, CSS, JavaScript, React and beyond, I translate design concepts into captivating digital experiences. I thrive on solving complex challenges and optimizing performance to deliver exceptional results. Embracing continuous learning, I keep in touch with industry trends and best practices, ensuring that every project reflects the latest advancements in technology.
+ 🎯 Overcoming hurdles, powered by tech! ⚡ <br><br> Passionate about web development, I specialize in crafting seamless user interfaces that blend innovation with usability. With expertise in a variety of technologies, including HTML, CSS, JavaScript, React and beyond, I translate design concepts into captivating digital experiences. I thrive on solving complex challenges and optimizing performance to deliver exceptional results. Embracing continuous learning, I keep in touch with industry trends and best practices, ensuring that every project reflects the latest advancements in technology.
 </p>
 &nbsp;
 
-<div align="center" style="margin-bottom:100px">
+<div align="center">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
 </div>
