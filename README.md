@@ -14,6 +14,7 @@
 <div align="center">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nathangrazo&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangrazo&layout=compact&theme=radical&show_icons=true" />
+  <img width=40% align="center" src="[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathangrazo)](https://github.com/nathangrazo/github-readme-stats) " />
 </div>
 &nbsp;&nbsp;
 
