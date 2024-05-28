@@ -14,7 +14,6 @@
 <div align="center">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nathangrazo&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangrazo&layout=compact&theme=radical&show_icons=true" />
-  <img align="top" height="180rem" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nathangrazo&hide=HTML&langs_count=10&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
 </div>
 &nbsp;&nbsp;
 
