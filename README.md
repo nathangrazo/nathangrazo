@@ -9,13 +9,13 @@
 ## 📱 Connect with me:
 <div> 
   <a href="mailto:nathangrazo@gmail.com" target="_blank">
-   <img src="./images/icone-email.svg">
+   <img src="./images/icone-email.svg" width="190">
   </a>
   <a href="https://www.linkedin.com/in/nathangrazo/" target="_blank">
-   <img src="./images/icone-linkedin.svg">
+   <img src="./images/icone-linkedin.svg" width="190">
   </a> 
   <a href="https://api.whatsapp.com/send/?phone=5518996951518">
-   <img src="./images/icone-whatsapp.svg" target="_blank">
+   <img src="./images/icone-whatsapp.svg" target="_blank" width="190">
   </a> 
 </div>
 &nbsp;&nbsp;
